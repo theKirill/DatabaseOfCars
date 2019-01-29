@@ -1,0 +1,6 @@
+models\Auto.class
+com\yanyushkin\contoller\MainFormController.class
+models\Brand.class
+com\yanyushkin\Main.class
+utils\HibernateSessionFactoryUtil.class
+models\Transmission.class
